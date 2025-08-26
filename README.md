@@ -1,2 +1,2 @@
-# DataAnalysis101
+# Data Analysis 101
 ## Coursework for the DataAnalysis 101 of the Korea National Open University 
